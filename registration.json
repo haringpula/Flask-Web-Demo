@@ -1,0 +1,46 @@
+{
+    "guests": [
+        {
+            "fname": "King Red",
+            "mname": "Matalang",
+            "lname": "Sanchez",
+            "uname": "haringpula",
+            "address": "711 A. Luna cor. P. Gomez st., Zappystower 1",
+            "region": "07",
+            "province": "0722",
+            "city": "072217",
+            "barangay": "072217016",
+            "postal": "1234",
+            "phone": "09876543210",
+            "email": "king@red.com",
+            "gender": "F",
+            "birthdate": "1989-12-24",
+            "birthplace": "Quezon City",
+            "nationality": "filipino",
+            "civil": "D",
+            "maiden": "Singh",
+            "employment": "3",
+            "company": "PUP",
+            "funding": "2",
+            "q1": {
+                "q1a": "yes",
+                "q1b": "no",
+                "q1c": "yes",
+                "q1d": "no",
+                "q1e": "yes",
+                "q1f": "no",
+                "q1g": "yes"
+            },
+            "q2": "no",
+            "q3": "yes",
+            "q4": "no",
+            "q5": {
+                "q5a": "yes",
+                "q5b": "sa bahay"
+            },
+            "q6": "no",
+            "q7": "yes",
+            "auth": "Agree"
+        }
+    ]
+}
